@@ -1,4 +1,4 @@
-# Router-EVM-Cross-Chain-Bridge
+# ZIM-Bridge
 Transfer between Ethereum,Binance,Polygon and Fantom.BNB to Matic,Matic to FTM,FTM to Avax,Avax to BNB...
 #### Receive USD token between different EVM blockchain immediately.
 <br>
